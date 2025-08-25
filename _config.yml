@@ -6,8 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Zihui Guo1
-title: Institute of Information Engineering, Chinese Academy of Sciences  | 
+name: Zihui Guo2
+title: |
+  Institute of Information Engineering, Chinese Academy of Sciences  
   School of Cyber Security, University of Chinese Academy of Sciences
 email: guozihui@iie.ac.cn 
 website: https://youzi27.github.io/

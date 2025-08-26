@@ -1,9 +1,9 @@
 # Site settings
 name: Zihui Guo
-email: guozihui@iie.ac.cn 
+email: youzih27@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: Zihui Guo, Guo Zihui, guozihui, Zihui
-skills: "Ph.D. Student<br>Institute of Information Engineering, Chinese Academy of Sciences<br>School of Cyber Security, University of Chinese Academy of Sciences"
+skills: "Ph.D. Student<br>Institute of Information Engineering, Chinese Academy of Sciences<br>School of Cyber Security, University of Chinese Academy of Sciences<br>youzih27@gmail.com"
 
 
 baseurl:
@@ -13,8 +13,8 @@ baseurl:
 social:
   # - title: linkedin
   #   url: 
-  - title: "mail"
-    url: "mailto:guozihui@iie.ac.cn"
+  # - title: "mail"
+  #   url: "mailto:guozihui@iie.ac.cn"
   - title: github
     url: https://github.com/youzi27
   # - title: twitter

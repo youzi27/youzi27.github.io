@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Zihui Guo1
-title: Institute of Information Engineering, Chinese Academy of Sciences 
+name: Zihui Guo
+
 title1: Institute of Information Engineering, Chinese Academy of Sciences  
 title2: School of Cyber Security, University of Chinese Academy of Sciences
 email: guozihui@iie.ac.cn 
@@ -49,11 +49,14 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/guozihui-profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Zihui Guo is a doctoral student at the Institute of Information Engineering, Chinese Academy of Sciences, where he also earned his Master’s degree in 2023. With a growing background in computer engineering and cybersecurity, he is eager to continue learning and contributing to research on processor security and reliability. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  His research interests span processor verification and testing, side-channel security, and memory safety. Currently, his doctoral work focuses on processor security, where he explores innovative techniques to uncover vulnerabilities and strengthen trust in modern CPU architectures.  
+
+  Known among peers for his curiosity and open-minded attitude, he actively engages in academic discussions and collaborative projects. He enjoys bridging rigorous research with practical applications, aiming to contribute both to the scientific community and to the broader field of computer security.  
+
 
 content:
   - title: Projects # Title for the section

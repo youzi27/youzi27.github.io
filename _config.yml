@@ -3,10 +3,8 @@ name: Zihui Guo2
 email: guozihui@iie.ac.cn 
 #canonical_url: https://edwinexemplar.com
 keywords: "Networking, Cloud computing, Web Development"
-skills: |
-  Ph.D. Student 
-  Institute of Information Engineering, Chinese Academy of Sciences
-  School of Cyber Security, University of Chinese Academy of Sciences
+skills: "Ph.D. Student<br>Institute of Information Engineering, Chinese Academy of Sciences<br>School of Cyber Security, University of Chinese Academy of Sciences"
+
 
 baseurl:
 

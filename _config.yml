@@ -13,6 +13,8 @@ baseurl:
 social:
   # - title: linkedin
   #   url: 
+  - title: "email"
+    url: "mailto:guozihui@iie.ac.cn"
   - title: github
     url: https://github.com/youzi27
   # - title: twitter

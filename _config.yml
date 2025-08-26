@@ -58,29 +58,6 @@ about_content: | # this will include new lines to allow paragraphs
   Known among peers for his curiosity and open-minded attitude, he actively engages in academic discussions and collaborative projects. He enjoys bridging rigorous research with practical applications, aiming to contribute both to the scientific community and to the broader field of computer security.  
 
 
-content:
-  - title: Projects
-    id: projects
-    layout: list
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        ...
-  - title: Experience
-    id: experience
-    layout: list
-    content:
-      ...
-  - title: Education
-    id: education
-    layout: list
-    content:
-      ...
-  - title: About
-    id: about
-    layout: text
-    content: |
-      This is about me...
 
 
 content:

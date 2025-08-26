@@ -190,6 +190,10 @@ section.tout {
     background: #{{ site.color.section-tout }};
 }
 
+section.pub {
+    background: #{{ site.color.section-pub }};
+}
+
 @media(max-width:767px) {
     section {
         padding: 50px 0;

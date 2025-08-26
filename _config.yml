@@ -1,9 +1,10 @@
 # Site settings
-name: Zihui Guo
+name: Zihui Guo1
 email: guozihui@iie.ac.cn 
 #canonical_url: https://edwinexemplar.com
 keywords: "Networking, Cloud computing, Web Development"
 title0: "Ph.D. Student"
+
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

@@ -1,0 +1,7 @@
+In order to allow email contact form, you need to create an account at formspree.io and follow the instruction:
+
+Your form's endpoint is:
+https://formspree.io/"site name"
+
+Copy
+Place this URL in the action attribute of your form. Also, make sure your form uses method="POST". Finally, ensure that each input has a name attribute.

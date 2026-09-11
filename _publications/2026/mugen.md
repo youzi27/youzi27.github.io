@@ -4,6 +4,7 @@ date: '2026-08-04 00:00:00 +0800'
 selected: true
 pub: Published in Computers & Security, Volume 171, Article 105098
 pub_date: '2026'
+pub_last: '(accepted August 4, 2026)'
 authors:
 - Jinwei Hu
 - Zihui Guo#

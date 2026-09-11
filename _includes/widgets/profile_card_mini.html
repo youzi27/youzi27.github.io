@@ -29,19 +29,23 @@
                 <div class="row small">
                     <div class="col text-center">
                         {% for position in site.data.profile.positions %}
-                        {{ position.name }}<br/>
+                        {{ position.name | replace: " (NUS)", "" }}<br/>
                         {% endfor %}
                     </div>
                 </div>
 
                 <div class="row pt-2">
-                    <div class="col text-center h4">
+                    <div class="col text-center small">
                         {% if site.data.profile.email %}
-                        <a class="px-1 no-break" href="mailto:{{ site.data.profile.email | encode_email }}" title="Email" aria-label="Email">
-                            <i class="fas fa-envelope"></i>
+                        <a class="px-1 no-break" href="mailto:{{ site.data.profile.email | encode_email }}" title="Email">
+                            <i class="fas fa-envelope"></i> {{ site.data.profile.email }}
                         </a>
                         {% endif %}
+                    </div>
+                </div>
 
+                <div class="row pt-2">
+                    <div class="col text-center h4">
                         {% if site.data.profile.gscholar %}
                         {%- if site.data.profile.gscholar contains 'scholar.google' -%}
                         {%- assign gscholar_url = site.data.profile.gscholar -%}

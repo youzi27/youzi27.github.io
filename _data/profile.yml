@@ -16,8 +16,6 @@ short_bio: >-
   with a focus on the security and reliability of modern processors. I am interested
   in practical and scalable approaches to processor verification, hardware vulnerability
   discovery, side-channel security, and hardware-assisted memory safety.</p>
-  <p>My work has been published in ACM CCS, ACSAC, IEEE Transactions on Dependable and
-  Secure Computing (TDSC), Computers &amp; Security, and The Computer Journal.</p>
   <h6>Research Interests</h6>
   <ul>
     <li>Processor security and verification</li>

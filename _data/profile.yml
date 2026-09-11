@@ -7,7 +7,7 @@ positions:
 - name: National University of Singapore (NUS)
 email: youzih27@gmail.com
 github: youzi27
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>I am a postdoctoral researcher at the National University of Singapore (NUS).
   I received both my M.S. and Ph.D. degrees from the Institute of Information Engineering,

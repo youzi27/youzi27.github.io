@@ -2,6 +2,7 @@
 title: Automatic Demirci Selçuk meet-in-the-middle attack on SIMON
 date: '2023-01-01 00:00:01 +0800'
 selected: true
+cover: /assets/images/publications/simon-overview.svg
 pub: Published in The Computer Journal, Oxford University Press
 pub_date: '2023'
 authors:

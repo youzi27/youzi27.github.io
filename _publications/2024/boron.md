@@ -2,6 +2,7 @@
 title: Improved linear cryptanalysis of block cipher BORON
 date: '2024-01-01 00:00:02 +0800'
 selected: true
+cover: /assets/images/publications/boron-overview.svg
 pub: Published in The Computer Journal, Oxford University Press
 pub_date: '2024'
 authors:

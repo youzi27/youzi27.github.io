@@ -2,6 +2,7 @@
 title: 'Hypnos: A Practical Power Side-Channel Attacks via CPU Idle Time'
 date: '2025-01-01 00:00:03 +0800'
 selected: true
+cover: /assets/images/publications/hypnos-overview.svg
 pub: Published in IEEE Transactions on Dependable and Secure Computing (TDSC)
 pub_date: '2025'
 authors:

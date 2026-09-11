@@ -8,9 +8,7 @@ authors:
 - Y. Lv
 - D. Shi
 - Y. Guo
-- Q. Chen
-- L. Hu
-- Zihui Guo
+- et al.
 links:
   Paper: https://academic.oup.com/comjnl/article/66/12/3052/6772525
   DOI: https://doi.org/10.1093/comjnl/bxac149

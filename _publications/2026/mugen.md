@@ -8,6 +8,7 @@ pub_last: '(accepted August 4, 2026)'
 authors:
 - J. Hu
 - Zihui Guo#
+- R. Li
 - et al.
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0167404826002749

@@ -8,10 +8,7 @@ authors:
 - Y. Feng
 - X. Zhang
 - Zihui Guo
-- B. Liu
-- F. Wang
-- Z. Zhu
-- Y. Zhang
+- et al.
 links:
   Paper: https://ieeexplore.ieee.org/document/11310788
   DOI: https://doi.org/10.1109/TDSC.2025.3646640

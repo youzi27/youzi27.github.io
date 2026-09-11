@@ -7,6 +7,8 @@ pub: Published in Computers & Security, Volume 155
 pub_date: '2025'
 authors:
 - Zihui Guo
+- Y. Lv
+- N. Cui
 - et al.
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0167404825001671

@@ -11,32 +11,29 @@ wechat_qrcode: "/assets/images/etc/weixin.jpg"
 short_bio_text_justify: false
 short_bio: >-
   <p>I am a postdoctoral researcher at the National University of Singapore (NUS).
-  I received my Ph.D. from the Institute of Information Engineering, Chinese Academy
-  of Sciences. My research lies at the intersection of computer architecture and
-  systems security, with an emphasis on building secure and reliable processors.</p>
-  <p>My work develops scalable techniques for uncovering processor vulnerabilities,
-  particularly through hardware fuzzing. I have studied diverse instruction generation,
-  hardware-aware coverage metrics, mutation and seed-scheduling strategies, and the
-  validation of non-standard instructions. I am also interested in side-channel security
-  and hardware-assisted approaches to memory safety.</p>
-  <p>My research has appeared in ACM CCS, ACSAC, IEEE Transactions on Dependable and
-  Secure Computing, Computers &amp; Security, and The Computer Journal.</p>
+  I received both my M.S. and Ph.D. degrees from the Institute of Information Engineering,
+  Chinese Academy of Sciences.</p>
+  <p>My research lies at the intersection of computer architecture and systems security,
+  with a focus on the security and reliability of modern processors. I am interested
+  in practical and scalable approaches to processor verification, hardware vulnerability
+  discovery, side-channel security, and hardware-assisted memory safety.</p>
+  <p>My work has been published in ACM CCS, ACSAC, IEEE Transactions on Dependable and
+  Secure Computing (TDSC), Computers &amp; Security, and The Computer Journal.</p>
   <h6>Research Interests</h6>
   <ul>
     <li>Processor security and verification</li>
-    <li>Hardware fuzzing and automated vulnerability discovery</li>
+    <li>Hardware vulnerability discovery</li>
     <li>Side-channel security</li>
     <li>Hardware-assisted memory safety</li>
   </ul>
 portrait_url: "/assets/images/photos/gzh-life-pro2.png"
 portrait_caption: Zihui Guo
-research_experience:
+experience:
 - name: National University of Singapore
   position: Postdoctoral Researcher
   dept: ''
   date: Present
   logo: "/assets/images/badges/blank.svg"
-teaching_experience:
 - name: University of Chinese Academy of Sciences
   position: Teaching Assistant
   dept: Graduate Computer Architecture Security

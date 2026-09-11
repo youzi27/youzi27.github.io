@@ -3,54 +3,48 @@ primary_name: Zihui Guo
 secondary_name: ''
 navbar_name: Zihui Guo
 positions:
-- name: Ph.D. Student
-- name: Institute of Information Engineering, Chinese Academy of Sciences
-- name: School of Cyber Security, University of Chinese Academy of Sciences
+- name: Postdoctoral Researcher
+- name: National University of Singapore (NUS)
 email: youzih27@gmail.com
 github: youzi27
 wechat_qrcode: "/assets/images/etc/weixin.jpg"
 short_bio_text_justify: false
-short_bio: "<p>I am a Ph.D. student at the Institute of Information Engineering, Chinese
-  Academy of Sciences, where I also completed my Master’s degree in 2023. With a growing
-  background in computer engineering and cybersecurity, I am eager to continue learning
-  and contributing to research on processor security and reliability.</p><p>My current
-  research focuses on processor security, where I explore innovative techniques to
-  uncover hardware vulnerabilities and improve the security and robustness of modern
-  CPUs.</p><p>Driven by curiosity and an open-minded approach, I actively engage in
-  academic discussions and collaborative research projects. I enjoy bridging rigorous
-  theoretical research with practical applications, aiming to contribute both to the
-  scientific community and to the broader field of computer security.</p><h6>Research
-  Interests</h6><ul><li>Processor Verification. My work focuses on discovering CPU
-  vulnerabilities through fuzzing. I have addressed key challenges in CPU fuzzing,
-  including test redundancy, imbalance, and false positives. Specifically, I (1) proposed
-  diversified test construction, (2) introduced a novel coverage metric, (3) designed
-  a new mutation algorithm, (4) overcame large-scale verification bottlenecks for
-  non-standard instructions, and (5) pioneered a seed scheduling strategy tailored
-  for CPU fuzzing.</li><li>Side-Channel Security. I have studied and reproduced various
-  side-channel attacks, gaining practical insights into their mechanisms and countermeasures.</li><li>Memory
-  Safety. I am interested in exploring memory safety from both hardware and system
-  perspectives, including memory corruption detection, pointer integrity, and runtime
-  monitoring techniques, aiming to mitigate security risks in modern processors.</li></ul><h6>Recent
-  Projects</h6><ul><li>Developed fuzzing frameworks to identify pre-silicon bugs in
-  RISC-V processors, effectively improving processor validation and verification.</li><li>Developed
-  a framework for generating and testing non-standard instructions, which will be
-  open-sourced on GitHub soon.</li><li>Current work will soon be released as an open-source
-  project on GitHub to support the broader hardware security and verification community.</li></ul><h6>Patents</h6><ul><li>Test
-  Instruction Generation Method, Apparatus, Device, and Medium for Processor Fuzz
-  Testing.</li><li>Seed Mutation Method and Apparatus for Hardware Fuzz Testing.</li><li>Seed
-  Scheduling Method and Apparatus for Hardware Fuzz Testing.</li></ul>"
+short_bio: >-
+  <p>I am a postdoctoral researcher at the National University of Singapore (NUS).
+  I received my Ph.D. from the Institute of Information Engineering, Chinese Academy
+  of Sciences. My research lies at the intersection of computer architecture and
+  systems security, with an emphasis on building secure and reliable processors.</p>
+  <p>My work develops scalable techniques for uncovering processor vulnerabilities,
+  particularly through hardware fuzzing. I have studied diverse instruction generation,
+  hardware-aware coverage metrics, mutation and seed-scheduling strategies, and the
+  validation of non-standard instructions. I am also interested in side-channel security
+  and hardware-assisted approaches to memory safety.</p>
+  <p>My research has appeared in ACM CCS, ACSAC, IEEE Transactions on Dependable and
+  Secure Computing, Computers &amp; Security, and The Computer Journal.</p>
+  <h6>Research Interests</h6>
+  <ul>
+    <li>Processor security and verification</li>
+    <li>Hardware fuzzing and automated vulnerability discovery</li>
+    <li>Side-channel security</li>
+    <li>Hardware-assisted memory safety</li>
+  </ul>
 portrait_url: "/assets/images/photos/gzh-life-pro2.png"
 portrait_caption: Zihui Guo
 education:
 - name: Institute of Information Engineering, Chinese Academy of Sciences
-  position: Ph.D. Student
-  date: Present
+  position: Ph.D.
+  date: ''
   logo: "/assets/images/badges/blank.svg"
 - name: Institute of Information Engineering, Chinese Academy of Sciences
   position: Master’s degree
   date: '2023'
   logo: "/assets/images/badges/blank.svg"
 experience:
+- name: National University of Singapore
+  position: Postdoctoral Researcher
+  dept: ''
+  date: Present
+  logo: "/assets/images/badges/blank.svg"
 - name: University of Chinese Academy of Sciences
   position: Teaching Assistant
   dept: Graduate Computer Architecture Security

@@ -6,7 +6,7 @@ pub: Published in Computers & Security, Volume 171, Article 105098
 pub_date: '2026'
 pub_last: '(accepted August 4, 2026)'
 authors:
-- Jinwei Hu
+- J. Hu
 - Zihui Guo#
 - et al.
 links:

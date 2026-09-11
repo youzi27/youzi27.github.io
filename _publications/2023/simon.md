@@ -5,11 +5,11 @@ selected: true
 pub: Published in The Computer Journal, Oxford University Press
 pub_date: '2023'
 authors:
-- Yin Lv
-- Danping Shi
-- Yi Guo
-- Qiu Chen
-- Lei Hu
+- Y. Lv
+- D. Shi
+- Y. Guo
+- Q. Chen
+- L. Hu
 - Zihui Guo
 links:
   Paper: https://academic.oup.com/comjnl/article/66/12/3052/6772525

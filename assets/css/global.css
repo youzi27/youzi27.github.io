@@ -134,8 +134,14 @@ html[data-theme="dark"] .navbar .nav-item.active .nav-link {
     color: #ffffff !important;
 }
 
-html[data-theme="dark"] .text-dark {
+html[data-theme="dark"] .text-dark,
+html[data-theme="dark"] .text-body {
     color: #d6d9dd !important;
+}
+
+html[data-theme="dark"] mark {
+    background-color: #3d3a1a;
+    color: #e8dfa0;
 }
 
 html[data-theme="dark"] .text-muted {

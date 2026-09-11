@@ -6,11 +6,7 @@ pub: Proceedings of the 32nd ACM Conference on Computer and Communications Secur
 pub_date: '2025'
 authors:
 - Zihui Guo
-- Miaomiao Yuan
-- Yanqi Yang
-- Liwei Chen
-- Gang Shi
-- Dan Meng
+- et al.
 links:
   Paper: https://dl.acm.org/doi/10.1145/3719027.3765167
   DOI: https://doi.org/10.1145/3719027.3765167

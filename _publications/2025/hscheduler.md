@@ -7,10 +7,7 @@ pub: Published in Computers & Security, Volume 155
 pub_date: '2025'
 authors:
 - Zihui Guo
-- Yin Lv
-- Ningning Cui
-- Liwei Chen
-- Gang Shi
+- et al.
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0167404825001671
   DOI: https://doi.org/10.1016/j.cose.2025.104479

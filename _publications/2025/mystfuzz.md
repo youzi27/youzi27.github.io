@@ -6,11 +6,7 @@ pub: Proceedings of the 41st Annual Computer Security Applications Conference (A
 pub_date: '2025'
 authors:
 - Zihui Guo
-- Wenhao Cui
-- Liwei Chen
-- Miaomiao Yuan
-- Gang Shi
-- Dan Meng
+- et al.
 links:
   Paper: https://ieeexplore.ieee.org/document/11391784
   DOI: https://doi.org/10.1109/ACSAC67867.2025.00065

@@ -2,6 +2,7 @@
 title: 'DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction'
 date: '2025-01-01 00:00:06 +0800'
 selected: true
+cover: /assets/images/publications/divefuzz-overview.png
 pub: Proceedings of the 32nd ACM Conference on Computer and Communications Security (ACM CCS)
 pub_date: '2025'
 authors:

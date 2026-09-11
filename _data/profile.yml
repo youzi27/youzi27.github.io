@@ -33,6 +33,11 @@ experience:
   dept: ''
   date: Present
   logo: "/assets/images/badges/blank.svg"
+- name: Institute of Information Engineering, Chinese Academy of Sciences
+  position: Ph.D. Student
+  dept: ''
+  date: 2023–2026
+  logo: "/assets/images/badges/blank.svg"
 - name: University of Chinese Academy of Sciences
   position: Teaching Assistant
   dept: Graduate Computer Architecture Security
@@ -43,15 +48,20 @@ experience:
   dept: Graduate Computer Architecture Security
   date: Spring 2024
   logo: "/assets/images/badges/blank.svg"
+- name: Institute of Information Engineering, Chinese Academy of Sciences
+  position: M.S. Student
+  dept: ''
+  date: 2020–2023
+  logo: "/assets/images/badges/blank.svg"
 awards:
 - name: Outstanding Graduate, Institute of Information Engineering, Chinese Academy
     of Sciences.
   date: '2026'
-- name: First Prize in the National College Student Computer Skills Competition (C
-    Language), Grand Final.
-  date: '2018'
 - name: Ranked within the top 1% nationwide in the CCF/CSP Computer Software Proficiency
     Certification (C/C++ Programming), organized by the China Computer Federation,
   date: '2019'
 - name: First Prize in the National College Student Mathematics Competition.
   date: '2019'
+- name: First Prize in the National College Student Computer Skills Competition (C
+    Language), Grand Final.
+  date: '2018'

@@ -11,4 +11,7 @@ authors:
 - Ningning Cui
 - Liwei Chen
 - Gang Shi
+links:
+  Paper: https://www.sciencedirect.com/science/article/pii/S0167404825001671
+  DOI: https://doi.org/10.1016/j.cose.2025.104479
 ---

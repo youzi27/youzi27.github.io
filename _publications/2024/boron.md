@@ -11,4 +11,7 @@ authors:
 - Zihui Guo
 - Yi Guo
 - Caibing Wang
+links:
+  Paper: https://academic.oup.com/comjnl/article/67/1/210/6955889
+  DOI: https://doi.org/10.1093/comjnl/bxac169
 ---

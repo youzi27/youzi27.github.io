@@ -12,4 +12,7 @@ authors:
 - Fei Wang
 - Ziyuan Zhu
 - Yinqian Zhang
+links:
+  Paper: https://ieeexplore.ieee.org/document/11310788
+  DOI: https://doi.org/10.1109/TDSC.2025.3646640
 ---

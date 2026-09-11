@@ -11,4 +11,7 @@ authors:
 - Miaomiao Yuan
 - Gang Shi
 - Dan Meng
+links:
+  Paper: https://ieeexplore.ieee.org/document/11391784
+  DOI: https://doi.org/10.1109/ACSAC67867.2025.00065
 ---

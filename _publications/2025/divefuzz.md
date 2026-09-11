@@ -12,5 +12,7 @@ authors:
 - Gang Shi
 - Dan Meng
 links:
+  Paper: https://dl.acm.org/doi/10.1145/3719027.3765167
+  DOI: https://doi.org/10.1145/3719027.3765167
   Code: https://github.com/In2Sec/DiveFuzz
 ---

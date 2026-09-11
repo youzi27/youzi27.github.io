@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Linear path crossing a lightweight block cipher grid toward a key">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fbf9ff"/><stop offset="1" stop-color="#f1edff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#312e81" flood-opacity=".13"/></filter></defs>
+  <rect width="900" height="540" rx="30" fill="url(#bg)"/>
+  <g opacity=".55" fill="#c4b5fd"><circle cx="95" cy="95" r="7"/><circle cx="130" cy="95" r="7"/><circle cx="165" cy="95" r="7"/><circle cx="735" cy="445" r="7"/><circle cx="770" cy="445" r="7"/><circle cx="805" cy="445" r="7"/></g>
+  <g filter="url(#s)"><rect x="180" y="95" width="430" height="350" rx="42" fill="#fff" stroke="#6d28d9" stroke-width="9"/></g>
+  <g fill="#ddd6fe" stroke="#7c3aed" stroke-width="5"><rect x="235" y="145" width="92" height="74" rx="14"/><rect x="349" y="145" width="92" height="74" rx="14"/><rect x="463" y="145" width="92" height="74" rx="14"/><rect x="235" y="238" width="92" height="74" rx="14"/><rect x="349" y="238" width="92" height="74" rx="14"/><rect x="463" y="238" width="92" height="74" rx="14"/><rect x="235" y="331" width="92" height="74" rx="14"/><rect x="349" y="331" width="92" height="74" rx="14"/><rect x="463" y="331" width="92" height="74" rx="14"/></g>
+  <path d="M95 380C205 380 220 175 285 182s77 209 158 186 60-186 116-186 105 88 160 88" fill="none" stroke="#f59e0b" stroke-width="18" stroke-linecap="round"/>
+  <g transform="translate(715 215)" filter="url(#s)" fill="#fff7d6" stroke="#b45309" stroke-width="10"><circle cx="48" cy="48" r="45"/><path d="M89 75l76 76m-12-12 25-25m-49 1 25-25" fill="none" stroke-linecap="round"/></g>
+</svg>

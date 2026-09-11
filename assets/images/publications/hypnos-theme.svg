@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-label="Sleeping processor emitting a measurable power waveform">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f8f7ff"/><stop offset="1" stop-color="#eef0ff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#312e81" flood-opacity=".14"/></filter></defs>
+  <rect width="900" height="540" rx="30" fill="url(#bg)"/>
+  <g filter="url(#s)"><rect x="95" y="125" width="330" height="290" rx="55" fill="#fff" stroke="#312e81" stroke-width="10"/><rect x="155" y="185" width="210" height="170" rx="34" fill="#ddd6fe" stroke="#7c3aed" stroke-width="8"/></g>
+  <g stroke="#312e81" stroke-width="10" stroke-linecap="round"><path d="M145 100v35M205 100v35M265 100v35M325 100v35M385 100v35M145 405v35M205 405v35M265 405v35M325 405v35M385 405v35M70 175h35M70 235h35M70 295h35M70 355h35M415 175h35M415 235h35M415 295h35M415 355h35"/></g>
+  <path d="M290 208a73 73 0 1 0 52 117 88 88 0 1 1-52-117z" fill="#fef3c7" stroke="#d97706" stroke-width="8"/>
+  <path d="M485 300h55l35-95 58 190 48-150 42 55h92" fill="none" stroke="#ef4444" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#8b5cf6" opacity=".75"><circle cx="535" cy="125" r="12"/><circle cx="590" cy="90" r="8"/><circle cx="635" cy="135" r="6"/></g>
+</svg>

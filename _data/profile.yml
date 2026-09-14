@@ -58,15 +58,16 @@ experience:
   dept: ''
   date: 2020–2023
   logo: "/assets/images/badges/blank.svg"
-awards:
-- name: Outstanding Graduate, Institute of Information Engineering, Chinese Academy
-    of Sciences.
-  date: '2026'
-- name: Ranked within the top 1% nationwide in the CCF/CSP Computer Software Proficiency
-    Certification (C/C++ Programming), organized by the China Computer Federation,
-  date: '2019'
-- name: First Prize in the National College Student Mathematics Competition.
-  date: '2019'
-- name: First Prize in the National College Student Computer Skills Competition (C
-    Language), Grand Final.
-  date: '2018'
+# Hidden for now. Uncomment to show the "Honors & Awards" section again.
+# awards:
+# - name: Outstanding Graduate, Institute of Information Engineering, Chinese Academy
+#     of Sciences.
+#   date: '2026'
+# - name: Ranked within the top 1% nationwide in the CCF/CSP Computer Software Proficiency
+#     Certification (C/C++ Programming), organized by the China Computer Federation,
+#   date: '2019'
+# - name: First Prize in the National College Student Mathematics Competition.
+#   date: '2019'
+# - name: First Prize in the National College Student Computer Skills Competition (C
+#     Language), Grand Final.
+#   date: '2018'

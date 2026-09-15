@@ -1,3 +1,8 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Zihui Guo</title>
 <meta name="description" content="Zihui Guo — Research Fellow, School of Computing, National University of Singapore. Processor security, CPU verification, side-channel security.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,6 +32,7 @@
   --copper:#D9905F; --copper-soft:#33261C;
 }
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html{scroll-behavior:smooth}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto} *{transition:none!important}}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.6;padding-inline:20px;padding-block:0 64px}
@@ -143,6 +149,8 @@ footer{padding-top:28px;border-top:1px solid var(--line);display:flex;justify-co
 .pub-toggle svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;transition:transform .2s}
 .pub-toggle[aria-expanded="true"] svg{transform:rotate(180deg)}
 </style>
+</head>
+<body>
 
 <div class="wrap">
 <nav class="nav" aria-label="Site">
@@ -274,7 +282,7 @@ footer{padding-top:28px;border-top:1px solid var(--line);display:flex;justify-co
 
   <div class="pub-toggle-row">
     <button class="pub-toggle" id="pub-toggle" type="button" aria-expanded="false" aria-controls="publications">
-      <span class="pub-toggle-text">Show all 7 publications</span>
+      <span class="pub-toggle-text">Show all publications</span>
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
     </button>
   </div>
@@ -332,9 +340,11 @@ footer{padding-top:28px;border-top:1px solid var(--line);display:flex;justify-co
     var open = btn.getAttribute('aria-expanded')==='true';
     items.forEach(function(el){ el.hidden = open; });
     btn.setAttribute('aria-expanded', open?'false':'true');
-    txt.textContent = open ? 'Show all 7 publications' : 'Show fewer';
+    txt.textContent = open ? 'Show all publications' : 'Show fewer';
     if(open){ document.getElementById('publications').scrollIntoView({block:'start'}); }
   });
 })();
 </script>
 </div>
+</body>
+</html>
